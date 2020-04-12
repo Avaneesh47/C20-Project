@@ -1,2 +1,2 @@
-# C20-Project
-C20 class Project
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
